@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate ICT student who loves working on exciting projects with all kinds of languages and tools. Here you’ll find my repositories, contributions, and some information about me.
 
 ## 🔧 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,ts,mysql,mongodb,express,react,nodejs,npm,github,git,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,ts,mysql,mongodb,express,react,nodejs,npm,github,git,tailwind,vscode,linux)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning
 - Principles of software engineering
